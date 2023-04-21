@@ -1,0 +1,17 @@
+main{
+    display: flex;
+    width: 100%;
+    padding: 9rem;
+}
+.active{
+    color: white;
+}
+.leftSide{
+    width: 40rem;
+    margin-right: 10rem;
+}
+.rightSide{
+    width: 55%;
+}
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */

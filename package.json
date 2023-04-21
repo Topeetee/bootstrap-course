@@ -17,6 +17,8 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-   "@parcel/transformer-sass":"2.0.0-beta.2"
+    "@parcel/transformer-sass": "2.0.0-beta.2",
+    "cssnano": "^6.0.0",
+    "postcss": "^8.4.22"
   }
 }

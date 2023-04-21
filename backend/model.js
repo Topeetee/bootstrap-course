@@ -1,3 +1,5 @@
+const mongoose = require('mongoose');
+
 // Subscriber schema
 const subscriberSchema = new mongoose.Schema({
   email: {
