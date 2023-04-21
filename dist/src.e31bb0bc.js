@@ -8458,7 +8458,7 @@ function testResults(form) {
 var link = document.querySelectorAll(".nav-item");
 link.forEach(function (li) {
   li.addEventListener("click", function () {
-    li.toogle("active");
+    li.toggleAttribute("active");
   });
 });
 },{"bootstrap":"../node_modules/bootstrap/dist/js/bootstrap.esm.js"}],"../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {

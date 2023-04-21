@@ -15,6 +15,6 @@ function testResults (form) {
   const link = document.querySelectorAll(".nav-item");
   link.forEach((li)=>{
     li.addEventListener("click",()=>{
-     li.toogle("active");
+     li.toggleAttribute("active")
     })
   })
